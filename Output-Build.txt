@@ -1,0 +1,4 @@
+﻿1>------ Build started: Project: FolderSize, Configuration: Debug Win32 ------
+1>  FolderSize.cpp
+1>  FolderSize.vcxproj -> C:\Users\Student\lr09-filesize-mrkitlerkki\Debug\FolderSize.exe
+========== Build: 1 succeeded, 0 failed, 0 up-to-date, 0 skipped ==========
